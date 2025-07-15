@@ -39,4 +39,3 @@ while True:
         except Exception as e:
             print(f"Error evaluating position {pos['symbol']}: {e}")
     time.sleep(10)
-revisa 
