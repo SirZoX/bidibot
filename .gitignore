@@ -1,0 +1,17 @@
+_files/json/*.json
+_files/config/*.json
+_files/plots/*.jpg
+_files/plots/*.png
+_files/logs/*.log
+_files/json/*.csv
+_files/json/*.txt
+_files/json/*.log
+_files/json/*.jpg
+_files/json/*.png
+_files/csv/*.csv
+*.csv
+*.json
+*.txt
+*.log
+*.jpg
+*.png
